@@ -1,0 +1,96 @@
+{
+  "relaxation_task_labels": [
+    {
+      "task": "nonpolar_relaxation", 
+      "complete": true
+    }, 
+    {
+      "task": "polar_relaxation", 
+      "complete": true
+    }
+  ], 
+  "polarization_task_labels": [
+    {
+      "task": "nonpolar_polarization", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_8_polarization", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_7_polarization", 
+      "complete": false
+    }, 
+    {
+      "task": "interpolation_6_polarization", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_5_polarization", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_4_polarization", 
+      "complete": false
+    }, 
+    {
+      "task": "interpolation_3_polarization", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_2_polarization", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_1_polarization", 
+      "complete": true
+    }, 
+    {
+      "task": "polar_polarization", 
+      "complete": true
+    }
+  ], 
+  "static_task_labels": [
+    {
+      "task": "nonpolar_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_8_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_7_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_6_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_5_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_4_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_3_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_2_static", 
+      "complete": true
+    }, 
+    {
+      "task": "interpolation_1_static", 
+      "complete": true
+    }, 
+    {
+      "task": "polar_static", 
+      "complete": true
+    }
+  ]
+}
