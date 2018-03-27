@@ -1,6 +1,6 @@
 {
   "wfid_1476041085.48738": {
-    "polar_spacegroup": 5, 
+    "polar_spacegroup": 5.0, 
     "category": "not_smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,13 @@
       ]
     }, 
     "polarization_change_norm": 1.0040979749579115, 
-    "nonpolar_spacegroup": 166, 
+    "nonpolar_spacegroup": 166.0, 
     "pretty_formula": "Ni(HO)2", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Ni": 6.2, 
+      "O": 0.0, 
+      "H": 0.0
+    }, 
     "energy_per_atom": {
       "scalars": [
         -4.839499871, 
@@ -6485,11 +6489,7 @@
         }
       }
     }, 
-    "hubbards": {
-      "Ni": 6.2, 
-      "O": 0.0, 
-      "H": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

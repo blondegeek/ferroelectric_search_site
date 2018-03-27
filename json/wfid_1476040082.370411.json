@@ -1,6 +1,6 @@
 {
   "wfid_1476040082.370411": {
-    "polar_spacegroup": 1, 
+    "polar_spacegroup": 1.0, 
     "category": "not_complete", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,13 +98,13 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 2, 
+    "nonpolar_spacegroup": 2.0, 
     "pretty_formula": "CuBi(WO4)2", 
     "hubbards": {
-      "W": 6.2, 
       "O": 0.0, 
-      "Cu": 0.0, 
-      "Bi": 0.0
+      "W": 6.2, 
+      "Bi": 0.0, 
+      "Cu": 0.0
     }, 
     "distortion": [
       {

@@ -1,6 +1,6 @@
 {
   "wfid_1484444978.482971": {
-    "polar_spacegroup": 173, 
+    "polar_spacegroup": 173.0, 
     "category": "smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,9 @@
       ]
     }, 
     "polarization_change_norm": 0.31698755702694364, 
-    "nonpolar_spacegroup": 182, 
+    "nonpolar_spacegroup": 182.0, 
     "pretty_formula": "BaAl2O4", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
     "energy_per_atom": {
       "scalars": [
         -7.221092818035714, 
@@ -6485,7 +6485,7 @@
         }
       }
     }, 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

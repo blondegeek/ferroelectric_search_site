@@ -1,6 +1,6 @@
 {
   "wfid_1484445304.99674": {
-    "polar_spacegroup": 185, 
+    "polar_spacegroup": 185.0, 
     "category": "not_complete", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,7 +98,7 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 194, 
+    "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "TiAlO3", 
     "hubbards": {}, 
     "distortion": [

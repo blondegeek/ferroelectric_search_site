@@ -1,6 +1,6 @@
 {
   "wfid_1484445253.438371": {
-    "polar_spacegroup": 6, 
+    "polar_spacegroup": 6.0, 
     "category": "smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,9 @@
       ]
     }, 
     "polarization_change_norm": 3.4328374254754386, 
-    "nonpolar_spacegroup": 11, 
+    "nonpolar_spacegroup": 11.0, 
     "pretty_formula": "H(CO)2", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
     "energy_per_atom": {
       "scalars": [
         -6.9687269999999994, 
@@ -6485,7 +6485,7 @@
         }
       }
     }, 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

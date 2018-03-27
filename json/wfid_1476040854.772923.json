@@ -1,6 +1,6 @@
 {
   "wfid_1476040854.772923": {
-    "polar_spacegroup": 36, 
+    "polar_spacegroup": 36.0, 
     "category": "smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,9 @@
       ]
     }, 
     "polarization_change_norm": 0.15761218626149281, 
-    "nonpolar_spacegroup": 63, 
+    "nonpolar_spacegroup": 63.0, 
     "pretty_formula": "SiO2", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
     "energy_per_atom": {
       "scalars": [
         -7.903248580972222, 
@@ -6537,7 +6537,7 @@
         }
       }
     }, 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

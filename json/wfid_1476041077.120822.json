@@ -1,6 +1,6 @@
 {
   "wfid_1476041077.120822": {
-    "polar_spacegroup": 41, 
+    "polar_spacegroup": 41.0, 
     "category": "smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,9 @@
       ]
     }, 
     "polarization_change_norm": 11.502678459578222, 
-    "nonpolar_spacegroup": 139, 
+    "nonpolar_spacegroup": 139.0, 
     "pretty_formula": "Ti3(BiO3)4", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
     "energy_per_atom": {
       "scalars": [
         -7.23018113881579, 
@@ -6589,7 +6589,7 @@
         }
       }
     }, 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

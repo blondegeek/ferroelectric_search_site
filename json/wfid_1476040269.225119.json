@@ -1,6 +1,6 @@
 {
   "wfid_1476040269.225119": {
-    "polar_spacegroup": 7, 
+    "polar_spacegroup": 7.0, 
     "category": "smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,9 @@
       ]
     }, 
     "polarization_change_norm": 0.29106478815643405, 
-    "nonpolar_spacegroup": 14, 
+    "nonpolar_spacegroup": 14.0, 
     "pretty_formula": "KAuCl4", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
     "energy_per_atom": {
       "scalars": [
         -2.8684510116666666, 
@@ -6485,7 +6485,7 @@
         }
       }
     }, 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

@@ -1,6 +1,6 @@
 {
   "wfid_1476040905.953541": {
-    "polar_spacegroup": 44, 
+    "polar_spacegroup": 44.0, 
     "category": "not_smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,14 @@
       ]
     }, 
     "polarization_change_norm": 0.7762835652691477, 
-    "nonpolar_spacegroup": 74, 
+    "nonpolar_spacegroup": 74.0, 
     "pretty_formula": "Na2FeNiF7", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Na": 0.0, 
+      "Ni": 6.2, 
+      "Fe": 5.3, 
+      "F": 0.0
+    }, 
     "energy_per_atom": {
       "scalars": [
         -4.621650403863637, 
@@ -6485,12 +6490,7 @@
         }
       }
     }, 
-    "hubbards": {
-      "Na": 0.0, 
-      "F": 0.0, 
-      "Fe": 5.3, 
-      "Ni": 6.2
-    }, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

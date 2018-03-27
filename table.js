@@ -75,4 +75,4 @@ function getParameterByName(name, url) {
 }
 
 console.log(getParameterByName("category"))
-d3.csv(getParameterByName("category") + "_table_data.csv", getTable);
+d3.csv("csv/" + getParameterByName("category") + "_table_data.csv", getTable);

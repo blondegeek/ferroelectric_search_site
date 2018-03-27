@@ -1,6 +1,6 @@
 {
   "wfid_1476040941.660595": {
-    "polar_spacegroup": 99, 
+    "polar_spacegroup": 99.0, 
     "category": "not_complete", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,13 +98,13 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 123, 
+    "nonpolar_spacegroup": 123.0, 
     "pretty_formula": "EuBaFe2O5", 
     "hubbards": {
       "Eu": 0.0, 
-      "Ba": 0.0, 
+      "Fe": 5.3, 
       "O": 0.0, 
-      "Fe": 5.3
+      "Ba": 0.0
     }, 
     "distortion": [
       {

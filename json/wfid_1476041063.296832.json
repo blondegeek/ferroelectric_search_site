@@ -1,6 +1,6 @@
 {
   "wfid_1476041063.296832": {
-    "polar_spacegroup": 185, 
+    "polar_spacegroup": 185.0, 
     "category": "static_only", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,7 +98,7 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 194, 
+    "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "ScFeO3", 
     "hubbards": {
       "Sc": 0.0, 

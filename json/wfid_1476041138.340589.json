@@ -1,6 +1,6 @@
 {
   "wfid_1476041138.340589": {
-    "polar_spacegroup": 4, 
+    "polar_spacegroup": 4.0, 
     "category": "static_only", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,7 +98,7 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 20, 
+    "nonpolar_spacegroup": 20.0, 
     "pretty_formula": "Li2CoSiO4", 
     "hubbards": {
       "Si": 0.0, 

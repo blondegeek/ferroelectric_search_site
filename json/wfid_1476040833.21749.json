@@ -1,6 +1,6 @@
 {
   "wfid_1476040833.21749": {
-    "polar_spacegroup": 36, 
+    "polar_spacegroup": 36.0, 
     "category": "not_complete", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,7 +98,7 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 63, 
+    "nonpolar_spacegroup": 63.0, 
     "pretty_formula": "Ag10Te4Br3", 
     "hubbards": null, 
     "distortion": [

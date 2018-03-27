@@ -1,6 +1,6 @@
 {
   "wfid_1484694886.456410": {
-    "polar_spacegroup": 146, 
+    "polar_spacegroup": 146.0, 
     "category": "not_complete", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,13 +98,13 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 166, 
+    "nonpolar_spacegroup": 166.0, 
     "pretty_formula": "Ca2FeWO6", 
     "hubbards": {
-      "O": 0.0, 
+      "W": 6.2, 
       "Ca": 0.0, 
       "Fe": 5.3, 
-      "W": 6.2
+      "O": 0.0
     }, 
     "distortion": [
       {

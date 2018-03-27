@@ -1,6 +1,6 @@
 {
   "wfid_1484445014.628732": {
-    "polar_spacegroup": 36, 
+    "polar_spacegroup": 36.0, 
     "category": "smooth", 
     "tasks": {
       "relaxation_task_labels": [
@@ -99,9 +99,13 @@
       ]
     }, 
     "polarization_change_norm": 5.611818762375063, 
-    "nonpolar_spacegroup": 63, 
+    "nonpolar_spacegroup": 63.0, 
     "pretty_formula": "Ca3Mn2O7", 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Ca": 0.0, 
+      "Mn": 3.9, 
+      "O": 0.0
+    }, 
     "energy_per_atom": {
       "scalars": [
         -6.8216635624999995, 
@@ -6485,11 +6489,7 @@
         }
       }
     }, 
-    "hubbards": {
-      "Ca": 0.0, 
-      "Mn": 3.9, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "distortion": [
       {
         "unitcell": [

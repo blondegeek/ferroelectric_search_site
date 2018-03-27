@@ -1,6 +1,6 @@
 {
   "wfid_1476040145.86821": {
-    "polar_spacegroup": 4, 
+    "polar_spacegroup": 4.0, 
     "category": "static_only", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,12 +98,12 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 14, 
+    "nonpolar_spacegroup": 14.0, 
     "pretty_formula": "LiMn2F7", 
     "hubbards": {
-      "F": 0.0, 
+      "Li": 0.0, 
       "Mn": 3.9, 
-      "Li": 0.0
+      "F": 0.0
     }, 
     "energy_per_atom": {
       "scalars": [

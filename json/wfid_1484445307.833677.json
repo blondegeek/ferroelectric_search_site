@@ -1,6 +1,6 @@
 {
   "wfid_1484445307.833677": {
-    "polar_spacegroup": 7, 
+    "polar_spacegroup": 7.0, 
     "category": "static_only", 
     "tasks": {
       "relaxation_task_labels": [
@@ -98,7 +98,7 @@
         }
       ]
     }, 
-    "nonpolar_spacegroup": 14, 
+    "nonpolar_spacegroup": 14.0, 
     "pretty_formula": "H5NO2", 
     "hubbards": {}, 
     "energy_per_atom": {
