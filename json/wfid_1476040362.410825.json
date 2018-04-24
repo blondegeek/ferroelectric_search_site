@@ -1,7 +1,7 @@
 {
   "wfid_1476040362.410825": {
     "polar_spacegroup": 25.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "Ba2Co4Nd2O11", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 47.0, 
     "pretty_formula": "Ba2Nd2Co4O11", 
-    "hubbards": {
-      "Nd": 0.0, 
-      "Co": 3.32, 
-      "Ba": 0.0, 
-      "O": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2798,7 +2793,13 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "Co": 3.32, 
+      "Nd": 0.0, 
+      "Ba": 0.0, 
+      "O": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mp-561781", 
     "nonpolar_id": "mp-24879"
   }

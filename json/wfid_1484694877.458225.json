@@ -1,7 +1,7 @@
 {
   "wfid_1484694877.458225": {
     "polar_spacegroup": 8.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "CaNi2O4", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 12.0, 
     "pretty_formula": "Ca(NiO2)2", 
-    "hubbards": {
-      "Ni": 6.2, 
-      "Ca": 0.0, 
-      "O": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2977,7 +2973,12 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "Ni": 6.2, 
+      "Ca": 0.0, 
+      "O": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mvc-12644", 
     "nonpolar_id": "mvc-7742"
   }

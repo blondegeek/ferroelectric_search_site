@@ -1,7 +1,7 @@
 {
   "wfid_1476040928.68650": {
     "polar_spacegroup": 46.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "AlF7MgNa2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 1.0531776125744698, 
     "nonpolar_spacegroup": 74.0, 
     "pretty_formula": "Na2MgAlF7", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.169388094318181, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

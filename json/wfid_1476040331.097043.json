@@ -1,7 +1,7 @@
 {
   "wfid_1476040331.097043": {
     "polar_spacegroup": 9.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "B2O6Zn3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 0.060675900964297806, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "Zn3(BO3)2", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.112115024772728, 
@@ -6537,7 +6537,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

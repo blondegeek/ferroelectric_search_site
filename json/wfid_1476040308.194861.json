@@ -1,7 +1,7 @@
 {
   "wfid_1476040308.194861": {
     "polar_spacegroup": 9.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "O3V2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,10 +100,7 @@
     }, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "V2O3", 
-    "hubbards": {
-      "O": 0.0, 
-      "V": 3.25
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.964756384499999, 
@@ -224,7 +221,11 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "O": 0.0, 
+      "V": 3.25
+    }, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

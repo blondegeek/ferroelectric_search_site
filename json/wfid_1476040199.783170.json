@@ -1,7 +1,7 @@
 {
   "wfid_1476040199.783170": {
     "polar_spacegroup": 5.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "Cl2H8MgO12", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 12.348807228915708, 
     "nonpolar_spacegroup": 12.0, 
     "pretty_formula": "MgH8(ClO6)2", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -4.75113166847826, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

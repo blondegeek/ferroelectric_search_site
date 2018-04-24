@@ -1,7 +1,7 @@
 {
   "wfid_1484694901.319510": {
     "polar_spacegroup": 7.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "CuF4Li2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 64.0, 
     "pretty_formula": "Li2CuF4", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -4.425812002142857, 
@@ -221,7 +221,8 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

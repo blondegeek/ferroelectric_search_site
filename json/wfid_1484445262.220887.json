@@ -1,7 +1,7 @@
 {
   "wfid_1484445262.220887": {
     "polar_spacegroup": 107.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "PSn", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 225.0, 
     "pretty_formula": "SnP", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2163,7 +2163,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-7526", 
     "nonpolar_id": "mp-475"
   }

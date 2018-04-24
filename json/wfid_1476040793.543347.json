@@ -1,7 +1,7 @@
 {
   "wfid_1476040793.543347": {
     "polar_spacegroup": 33.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "CrLiO4P", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,12 +101,7 @@
     "polarization_change_norm": 38.07666400035255, 
     "nonpolar_spacegroup": 63.0, 
     "pretty_formula": "LiCrPO4", 
-    "hubbards": {
-      "P": 0.0, 
-      "Li": 0.0, 
-      "O": 0.0, 
-      "Cr": 3.7
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.035063615357143, 
@@ -6542,7 +6537,13 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "P": 0.0, 
+      "Li": 0.0, 
+      "O": 0.0, 
+      "Cr": 3.7
+    }, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

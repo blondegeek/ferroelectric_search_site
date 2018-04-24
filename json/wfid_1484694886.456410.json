@@ -1,7 +1,7 @@
 {
   "wfid_1484694886.456410": {
     "polar_spacegroup": 146.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "Ca2FeO6W", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 166.0, 
     "pretty_formula": "Ca2FeWO6", 
-    "hubbards": {
-      "W": 6.2, 
-      "Ca": 0.0, 
-      "Fe": 5.3, 
-      "O": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -3128,7 +3123,13 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "W": 6.2, 
+      "Ca": 0.0, 
+      "Fe": 5.3, 
+      "O": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mvc-12913", 
     "nonpolar_id": "mp-619611"
   }

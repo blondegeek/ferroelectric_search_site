@@ -1,7 +1,7 @@
 {
   "wfid_1484445115.00192": {
     "polar_spacegroup": 38.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "BaO3Ti", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 123.0, 
     "pretty_formula": "BaTiO3", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2433,7 +2433,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-995191", 
     "nonpolar_id": "mp-19990"
   }

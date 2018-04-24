@@ -1,7 +1,7 @@
 {
   "wfid_1484445086.092903": {
     "polar_spacegroup": 33.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "F6LiV", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,11 +101,7 @@
     "polarization_change_norm": 1.1939898049100326, 
     "nonpolar_spacegroup": 225.0, 
     "pretty_formula": "LiVF6", 
-    "hubbards": {
-      "F": 0.0, 
-      "Li": 0.0, 
-      "V": 3.25
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.1450565890625, 
@@ -6489,7 +6485,12 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "V": 3.25, 
+      "Li": 0.0, 
+      "F": 0.0
+    }, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

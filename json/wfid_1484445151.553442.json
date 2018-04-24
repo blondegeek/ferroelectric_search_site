@@ -1,7 +1,7 @@
 {
   "wfid_1484445151.553442": {
     "polar_spacegroup": 33.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "BiInO3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 63.710467188092196, 
     "nonpolar_spacegroup": 221.0, 
     "pretty_formula": "InBiO3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.1699278905, 
@@ -6537,7 +6537,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

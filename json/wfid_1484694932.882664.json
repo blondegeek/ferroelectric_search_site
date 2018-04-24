@@ -1,7 +1,7 @@
 {
   "wfid_1484694932.882664": {
     "polar_spacegroup": 29.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "MgN2O6", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 205.0, 
     "pretty_formula": "Mg(NO3)2", 
-    "hubbards": {}, 
+    "workflow_status": "RUNNING", 
     "distortion": [
       {
         "unitcell": [
@@ -4293,7 +4293,8 @@
         }
       }
     ], 
-    "workflow_status": "RUNNING", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-776410", 
     "nonpolar_id": "mp-771046"
   }

@@ -1,7 +1,7 @@
 {
   "wfid_1484445247.764276": {
     "polar_spacegroup": 31.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "Cu2Se", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 216.0, 
     "pretty_formula": "Cu2Se", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2223,7 +2223,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-684653", 
     "nonpolar_id": "mp-22297"
   }

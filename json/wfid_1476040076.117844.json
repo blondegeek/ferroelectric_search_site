@@ -1,7 +1,7 @@
 {
   "wfid_1476040076.117844": {
     "polar_spacegroup": 1.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "Fe2Li3O12P3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 2.0, 
     "pretty_formula": "Li3Fe2(PO4)3", 
-    "hubbards": {
-      "P": 0.0, 
-      "Fe": 5.3, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "FIZZLED", 
     "distortion": [
       {
         "unitcell": [
@@ -3428,7 +3423,13 @@
         }
       }
     ], 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {
+      "P": 0.0, 
+      "Fe": 5.3, 
+      "O": 0.0, 
+      "Li": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mp-762728", 
     "nonpolar_id": "mp-853256"
   }

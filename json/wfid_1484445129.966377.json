@@ -1,7 +1,7 @@
 {
   "wfid_1484445129.966377": {
     "polar_spacegroup": 185.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "AlNiO3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "AlNiO3", 
-    "hubbards": {
-      "Ni": 6.2, 
-      "Al": 0.0, 
-      "O": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -3037,7 +3033,12 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "Ni": 6.2, 
+      "Al": 0.0, 
+      "O": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mvc-3776", 
     "nonpolar_id": "mvc-14043"
   }

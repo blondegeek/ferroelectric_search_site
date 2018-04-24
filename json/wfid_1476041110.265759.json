@@ -1,7 +1,7 @@
 {
   "wfid_1476041110.265759": {
     "polar_spacegroup": 41.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "Bi2O9SrTa2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 38.19173592959529, 
     "nonpolar_spacegroup": 139.0, 
     "pretty_formula": "SrTa2Bi2O9", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.918210340178571, 
@@ -6641,7 +6641,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

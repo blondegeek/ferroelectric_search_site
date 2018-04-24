@@ -1,7 +1,7 @@
 {
   "wfid_1476040390.68687": {
     "polar_spacegroup": 29.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "OPb", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 53.715968127281364, 
     "nonpolar_spacegroup": 57.0, 
     "pretty_formula": "PbO", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.36088209125, 
@@ -6537,7 +6537,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

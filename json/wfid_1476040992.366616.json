@@ -1,7 +1,7 @@
 {
   "wfid_1476040992.366616": {
     "polar_spacegroup": 173.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "Ca5ClO12P3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 2.130620253078585, 
     "nonpolar_spacegroup": 176.0, 
     "pretty_formula": "Ca5P3ClO12", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.036862742619048, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

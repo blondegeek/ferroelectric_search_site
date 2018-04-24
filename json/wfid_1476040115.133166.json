@@ -1,7 +1,7 @@
 {
   "wfid_1476040115.133166": {
     "polar_spacegroup": 4.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "BaCO3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 0.979323273551026, 
     "nonpolar_spacegroup": 11.0, 
     "pretty_formula": "BaCO3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.451830454, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

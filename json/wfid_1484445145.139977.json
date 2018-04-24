@@ -1,7 +1,7 @@
 {
   "wfid_1484445145.139977": {
     "polar_spacegroup": 9.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "BiO3Sc", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 6.479225588874457, 
     "nonpolar_spacegroup": 221.0, 
     "pretty_formula": "ScBiO3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.032603108000001, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

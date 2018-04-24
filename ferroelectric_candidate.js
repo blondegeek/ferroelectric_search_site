@@ -321,7 +321,7 @@ d3.json("json/" + getParameterByName("wfid") + ".json", function(data) {
   var stats = document.getElementById('stats');
   var stats_str = "<table>"
   stats_str += "<tr><td><h2>" +
-    data['pretty_formula'] +
+    data['alphabetical_formula'] +
     "</h2></td></tr>"
   stats_str += "<tr><td><h2>" + wfid + "</h2></td></tr>"
   stats_str += "<tr><td><h2>" +

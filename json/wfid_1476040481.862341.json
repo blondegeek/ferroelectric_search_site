@@ -1,7 +1,7 @@
 {
   "wfid_1476040481.862341": {
     "polar_spacegroup": 33.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "Cu3Mo2O9", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 62.0, 
     "pretty_formula": "Cu3Mo2O9", 
-    "hubbards": {
-      "Mo": 4.38, 
-      "Cu": 0.0, 
-      "O": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -3817,7 +3813,12 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "Mo": 4.38, 
+      "Cu": 0.0, 
+      "O": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mp-649957", 
     "nonpolar_id": "mp-639719"
   }

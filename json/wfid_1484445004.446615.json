@@ -1,7 +1,7 @@
 {
   "wfid_1484445004.446615": {
     "polar_spacegroup": 5.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "LiO12P3W2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 167.0, 
     "pretty_formula": "LiP3(WO6)2", 
-    "hubbards": {
-      "P": 0.0, 
-      "O": 0.0, 
-      "W": 6.2, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -4388,7 +4383,13 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "P": 0.0, 
+      "O": 0.0, 
+      "W": 6.2, 
+      "Li": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mp-763531", 
     "nonpolar_id": "mp-763372"
   }

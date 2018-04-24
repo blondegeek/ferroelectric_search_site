@@ -1,7 +1,7 @@
 {
   "wfid_1476040941.660595": {
     "polar_spacegroup": 99.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "BaEuFe2O5", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 123.0, 
     "pretty_formula": "EuBaFe2O5", 
-    "hubbards": {
-      "Eu": 0.0, 
-      "Fe": 5.3, 
-      "O": 0.0, 
-      "Ba": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2498,7 +2493,13 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "Eu": 0.0, 
+      "Ba": 0.0, 
+      "O": 0.0, 
+      "Fe": 5.3
+    }, 
+    "category": "not_complete", 
     "polar_id": "mp-639347", 
     "nonpolar_id": "mp-656144"
   }

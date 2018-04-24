@@ -1,7 +1,7 @@
 {
   "wfid_1476040406.787015": {
     "polar_spacegroup": 29.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "Bi2MoO6", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,11 +101,7 @@
     "polarization_change_norm": 8.399753680438865, 
     "nonpolar_spacegroup": 64.0, 
     "pretty_formula": "Bi2MoO6", 
-    "hubbards": {
-      "Mo": 4.38, 
-      "Bi": 0.0, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.409021658055555, 
@@ -6593,7 +6589,12 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Mo": 4.38, 
+      "Bi": 0.0, 
+      "O": 0.0
+    }, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

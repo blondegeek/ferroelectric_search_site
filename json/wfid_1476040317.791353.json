@@ -1,7 +1,7 @@
 {
   "wfid_1476040317.791353": {
     "polar_spacegroup": 9.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "FNbO2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 117.78854183685154, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "NbO2F", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -8.05459915625, 
@@ -6589,7 +6589,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

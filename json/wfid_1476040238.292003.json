@@ -1,7 +1,7 @@
 {
   "wfid_1476040238.292003": {
     "polar_spacegroup": 6.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "H3O3Pr", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 176.0, 
     "pretty_formula": "Pr(HO)3", 
-    "hubbards": {}, 
+    "workflow_status": "FIZZLED", 
     "energy_per_atom": {
       "scalars": [
         -6.158055970714286, 
@@ -221,7 +221,8 @@
         ]
       }
     }, 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "distortion": [
       {
         "unitcell": [

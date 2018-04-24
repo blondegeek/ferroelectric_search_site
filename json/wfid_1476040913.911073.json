@@ -1,7 +1,7 @@
 {
   "wfid_1476040913.911073": {
     "polar_spacegroup": 44.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "O2Si", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 119.0, 
     "pretty_formula": "SiO2", 
-    "hubbards": null, 
+    "workflow_status": "FIZZLED", 
     "distortion": [
       {
         "unitcell": [
@@ -10683,7 +10683,8 @@
         }
       }
     ], 
-    "workflow_status": "FIZZLED", 
+    "hubbards": null, 
+    "category": "not_complete", 
     "polar_id": "mp-554946", 
     "nonpolar_id": "mp-644923"
   }

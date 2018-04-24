@@ -1,7 +1,7 @@
 {
   "wfid_1476041066.578918": {
     "polar_spacegroup": 185.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "Br3MnRb", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "RbMnBr3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -4.182223476666667, 
@@ -221,7 +221,8 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

@@ -1,7 +1,7 @@
 {
   "wfid_1484694883.344308": {
     "polar_spacegroup": 8.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "CaFe2O4", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 12.0, 
     "pretty_formula": "Ca(FeO2)2", 
-    "hubbards": {
-      "Ca": 0.0, 
-      "Fe": 5.3, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.461055398928571, 
@@ -225,7 +221,12 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Ca": 0.0, 
+      "Fe": 5.3, 
+      "O": 0.0
+    }, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

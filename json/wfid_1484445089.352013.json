@@ -1,7 +1,7 @@
 {
   "wfid_1484445089.352013": {
     "polar_spacegroup": 185.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "NiO3Y", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "YNiO3", 
-    "hubbards": {
-      "Y": 0.0, 
-      "Ni": 6.2, 
-      "O": 0.0
-    }, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -3037,7 +3033,12 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {
+      "Y": 0.0, 
+      "Ni": 6.2, 
+      "O": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mvc-3773", 
     "nonpolar_id": "mvc-14342"
   }

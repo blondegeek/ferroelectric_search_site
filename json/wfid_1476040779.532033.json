@@ -1,7 +1,7 @@
 {
   "wfid_1476040779.532033": {
     "polar_spacegroup": 33.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "LiMnO4P", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,12 +101,7 @@
     "polarization_change_norm": 5.3311721929698, 
     "nonpolar_spacegroup": 62.0, 
     "pretty_formula": "LiMnPO4", 
-    "hubbards": {
-      "P": 0.0, 
-      "Mn": 3.9, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.075414218571429, 
@@ -6490,7 +6485,13 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "P": 0.0, 
+      "Mn": 3.9, 
+      "O": 0.0, 
+      "Li": 0.0
+    }, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

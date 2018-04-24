@@ -1,7 +1,7 @@
 {
   "wfid_1484445048.335489": {
     "polar_spacegroup": 185.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "MnO3Y", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "YMnO3", 
-    "hubbards": {
-      "Y": 0.0, 
-      "Mn": 3.9, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -8.350643765666666, 
@@ -225,7 +221,12 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Y": 0.0, 
+      "Mn": 3.9, 
+      "O": 0.0
+    }, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

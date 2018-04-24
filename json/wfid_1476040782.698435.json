@@ -1,7 +1,7 @@
 {
   "wfid_1476040782.698435": {
     "polar_spacegroup": 33.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "LiO4SiV", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,12 +101,7 @@
     "polarization_change_norm": 1.7372548714081435, 
     "nonpolar_spacegroup": 62.0, 
     "pretty_formula": "LiVSiO4", 
-    "hubbards": {
-      "Si": 0.0, 
-      "V": 3.25, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.273566548571429, 
@@ -6490,7 +6485,13 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Si": 0.0, 
+      "Li": 0.0, 
+      "O": 0.0, 
+      "V": 3.25
+    }, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

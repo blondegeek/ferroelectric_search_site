@@ -1,7 +1,7 @@
 {
   "wfid_1476041035.850896": {
     "polar_spacegroup": 186.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "BaNiO3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,11 +101,7 @@
     "polarization_change_norm": 3.6774319430368005, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "BaNiO3", 
-    "hubbards": {
-      "Ni": 6.2, 
-      "Ba": 0.0, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.338400994, 
@@ -6489,7 +6485,12 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Ni": 6.2, 
+      "Ba": 0.0, 
+      "O": 0.0
+    }, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

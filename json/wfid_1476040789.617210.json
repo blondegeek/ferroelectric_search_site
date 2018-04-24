@@ -1,7 +1,7 @@
 {
   "wfid_1476040789.617210": {
     "polar_spacegroup": 33.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "Al2CaH4O10Si2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 4.195759083786364, 
     "nonpolar_spacegroup": 63.0, 
     "pretty_formula": "CaAl2Si2(H2O5)2", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.746965376710527, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

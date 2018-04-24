@@ -1,7 +1,7 @@
 {
   "wfid_1476040275.56900": {
     "polar_spacegroup": 7.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "AlH3O3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 8.042570963620236, 
     "nonpolar_spacegroup": 61.0, 
     "pretty_formula": "Al(HO)3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.832731219285714, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

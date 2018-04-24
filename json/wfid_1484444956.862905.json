@@ -1,7 +1,7 @@
 {
   "wfid_1484444956.862905": {
     "polar_spacegroup": 160.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "AlMo4S8", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 216.0, 
     "pretty_formula": "Al(MoS2)4", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -3303,7 +3303,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-554868", 
     "nonpolar_id": "mp-3861"
   }

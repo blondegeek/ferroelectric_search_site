@@ -1,7 +1,7 @@
 {
   "wfid_1484445276.419623": {
     "polar_spacegroup": 4.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "Ag2S", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 27.46226734487083, 
     "nonpolar_spacegroup": 11.0, 
     "pretty_formula": "Ag2S", 
-    "hubbards": {}, 
+    "workflow_status": "RUNNING", 
     "energy_per_atom": {
       "scalars": [
         -3.2425146716666666, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "RUNNING", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

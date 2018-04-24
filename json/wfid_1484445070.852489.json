@@ -1,7 +1,7 @@
 {
   "wfid_1484445070.852489": {
     "polar_spacegroup": 160.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "BiO2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 225.0, 
     "pretty_formula": "BiO2", 
-    "hubbards": {}, 
+    "workflow_status": "RUNNING", 
     "distortion": [
       {
         "unitcell": [
@@ -3123,7 +3123,8 @@
         }
       }
     ], 
-    "workflow_status": "RUNNING", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mvc-9645", 
     "nonpolar_id": "mp-32548"
   }

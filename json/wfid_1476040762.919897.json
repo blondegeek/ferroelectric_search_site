@@ -1,7 +1,7 @@
 {
   "wfid_1476040762.919897": {
     "polar_spacegroup": 33.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "NbO5P", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 4.144110288291124, 
     "nonpolar_spacegroup": 62.0, 
     "pretty_formula": "NbPO5", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -8.188350966785714, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

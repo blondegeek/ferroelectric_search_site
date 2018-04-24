@@ -1,7 +1,7 @@
 {
   "wfid_1484445307.833677": {
     "polar_spacegroup": 7.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "H5NO2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 14.0, 
     "pretty_formula": "H5NO2", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -4.6706131375, 
@@ -221,7 +221,8 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

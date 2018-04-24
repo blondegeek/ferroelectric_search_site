@@ -1,7 +1,7 @@
 {
   "wfid_1476040974.294686": {
     "polar_spacegroup": 146.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "Ag3IS", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 11.755714693904952, 
     "nonpolar_spacegroup": 155.0, 
     "pretty_formula": "Ag3SI", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -2.8402795153333336, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

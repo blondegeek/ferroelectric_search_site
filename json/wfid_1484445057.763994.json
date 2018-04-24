@@ -1,7 +1,7 @@
 {
   "wfid_1484445057.763994": {
     "polar_spacegroup": 160.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "FeO2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,10 +100,7 @@
     }, 
     "nonpolar_spacegroup": 166.0, 
     "pretty_formula": "FeO2", 
-    "hubbards": {
-      "Fe": 5.3, 
-      "O": 0.0
-    }, 
+    "workflow_status": "FIZZLED", 
     "distortion": [
       {
         "unitcell": [
@@ -3126,7 +3123,11 @@
         }
       }
     ], 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {
+      "Fe": 5.3, 
+      "O": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mvc-12125", 
     "nonpolar_id": "mp-25519"
   }

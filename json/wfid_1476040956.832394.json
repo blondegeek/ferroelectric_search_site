@@ -1,7 +1,7 @@
 {
   "wfid_1476040956.832394": {
     "polar_spacegroup": 99.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "O3PbTi", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 117.21764339108863, 
     "nonpolar_spacegroup": 221.0, 
     "pretty_formula": "TiPbO3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.523064150000001, 
@@ -6537,7 +6537,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

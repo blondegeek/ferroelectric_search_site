@@ -1,7 +1,7 @@
 {
   "wfid_1476040291.620895": {
     "polar_spacegroup": 8.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "O2Si", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 0.021800463734283692, 
     "nonpolar_spacegroup": 12.0, 
     "pretty_formula": "SiO2", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.9024969815277775, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

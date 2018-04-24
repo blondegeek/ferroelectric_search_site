@@ -1,7 +1,7 @@
 {
   "wfid_1476041157.542583": {
     "polar_spacegroup": 38.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "O23Rb6Si10", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 0.5464831974873108, 
     "nonpolar_spacegroup": 189.0, 
     "pretty_formula": "Rb6Si10O23", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.055149872051282, 
@@ -6537,7 +6537,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

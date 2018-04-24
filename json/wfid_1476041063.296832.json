@@ -1,7 +1,7 @@
 {
   "wfid_1476041063.296832": {
     "polar_spacegroup": 185.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "FeO3Sc", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "ScFeO3", 
-    "hubbards": {
-      "Sc": 0.0, 
-      "Fe": 5.3, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.777035775333333, 
@@ -225,7 +221,12 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Sc": 0.0, 
+      "Fe": 5.3, 
+      "O": 0.0
+    }, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

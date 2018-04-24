@@ -1,7 +1,7 @@
 {
   "wfid_1484694826.997820": {
     "polar_spacegroup": 41.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "Bi4O12Ti3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 17.07901674765093, 
     "nonpolar_spacegroup": 139.0, 
     "pretty_formula": "Ti3(BiO3)4", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.2301763503947365, 
@@ -6641,7 +6641,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

@@ -1,7 +1,7 @@
 {
   "wfid_1476040885.397624": {
     "polar_spacegroup": 36.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "BrH", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 225.0, 
     "pretty_formula": "HBr", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2283,7 +2283,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-632229", 
     "nonpolar_id": "mp-23903"
   }

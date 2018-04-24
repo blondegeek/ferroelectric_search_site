@@ -1,7 +1,7 @@
 {
   "wfid_1476041008.164350": {
     "polar_spacegroup": 186.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "As2NiTm2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "Tm2NiAs2", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2433,7 +2433,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-568266", 
     "nonpolar_id": "mp-11581"
   }

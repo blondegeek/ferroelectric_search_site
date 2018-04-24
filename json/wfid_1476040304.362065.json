@@ -1,7 +1,7 @@
 {
   "wfid_1476040304.362065": {
     "polar_spacegroup": 9.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "CrO9P3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,11 +101,7 @@
     "polarization_change_norm": 1.0837623603851132, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "Cr(PO3)3", 
-    "hubbards": {
-      "Cr": 3.7, 
-      "O": 0.0, 
-      "P": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.36151819326923, 
@@ -6489,7 +6485,12 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Cr": 3.7, 
+      "O": 0.0, 
+      "P": 0.0
+    }, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

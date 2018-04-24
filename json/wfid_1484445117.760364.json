@@ -1,7 +1,7 @@
 {
   "wfid_1484445117.760364": {
     "polar_spacegroup": 25.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "BC2N", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 115.0, 
     "pretty_formula": "BC2N", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -8.0191403325, 
@@ -221,7 +221,8 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

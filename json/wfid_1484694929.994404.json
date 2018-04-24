@@ -1,7 +1,7 @@
 {
   "wfid_1484694929.994404": {
     "polar_spacegroup": 7.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "MoO3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,10 +101,7 @@
     "polarization_change_norm": 5.159714305830054, 
     "nonpolar_spacegroup": 62.0, 
     "pretty_formula": "MoO3", 
-    "hubbards": {
-      "Mo": 4.38, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.06480331625, 
@@ -6488,7 +6485,11 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Mo": 4.38, 
+      "O": 0.0
+    }, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

@@ -1,7 +1,7 @@
 {
   "wfid_1484445177.258296": {
     "polar_spacegroup": 44.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "Al4La", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 139.0, 
     "pretty_formula": "LaAl4", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2943,7 +2943,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-571423", 
     "nonpolar_id": "mp-21109"
   }

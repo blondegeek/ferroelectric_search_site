@@ -1,7 +1,7 @@
 {
   "wfid_1476040121.733262": {
     "polar_spacegroup": 4.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "CeKS4Si", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 11.0, 
     "pretty_formula": "KCeSiS4", 
-    "hubbards": {}, 
+    "workflow_status": "FIZZLED", 
     "distortion": [
       {
         "unitcell": [
@@ -2643,7 +2643,8 @@
         }
       }
     ], 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-22809", 
     "nonpolar_id": "mp-11170"
   }

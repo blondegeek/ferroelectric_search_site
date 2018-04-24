@@ -1,7 +1,7 @@
 {
   "wfid_1476040350.947385": {
     "polar_spacegroup": 9.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "LiNi4O12P3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "LiNi4(PO4)3", 
-    "hubbards": {
-      "Ni": 6.2, 
-      "P": 0.0, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "RUNNING", 
     "energy_per_atom": {
       "scalars": [
         -6.162989187125, 
@@ -226,7 +221,13 @@
         ]
       }
     }, 
-    "workflow_status": "RUNNING", 
+    "hubbards": {
+      "P": 0.0, 
+      "Ni": 6.2, 
+      "O": 0.0, 
+      "Li": 0.0
+    }, 
+    "category": "not_complete", 
     "distortion": [
       {
         "unitcell": [

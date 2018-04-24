@@ -1,7 +1,7 @@
 {
   "wfid_1476041147.43703": {
     "polar_spacegroup": 185.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "GaO3Sc", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 10.433584981182793, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "ScGaO3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.478179066666667, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

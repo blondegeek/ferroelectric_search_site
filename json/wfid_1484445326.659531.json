@@ -1,7 +1,7 @@
 {
   "wfid_1484445326.659531": {
     "polar_spacegroup": 9.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "Li2MnO6Si2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,12 +101,7 @@
     "polarization_change_norm": 4.774981061864282, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "Li2Mn(SiO3)2", 
-    "hubbards": {
-      "Si": 0.0, 
-      "Mn": 3.9, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.132428151818181, 
@@ -6490,7 +6485,13 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Si": 0.0, 
+      "Mn": 3.9, 
+      "O": 0.0, 
+      "Li": 0.0
+    }, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

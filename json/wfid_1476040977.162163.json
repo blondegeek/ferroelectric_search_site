@@ -1,7 +1,7 @@
 {
   "wfid_1476040977.162163": {
     "polar_spacegroup": 160.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "Cl8Na2Ti3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 166.0, 
     "pretty_formula": "Na2Ti3Cl8", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -3303,7 +3303,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-569978", 
     "nonpolar_id": "mp-29474"
   }

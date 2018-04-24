@@ -1,7 +1,7 @@
 {
   "wfid_1476041021.053019": {
     "polar_spacegroup": 186.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "NaO11V6", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "NaV6O11", 
-    "hubbards": {
-      "Na": 0.0, 
-      "O": 0.0, 
-      "V": 3.25
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.538864326944444, 
@@ -225,7 +221,12 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Na": 0.0, 
+      "O": 0.0, 
+      "V": 3.25
+    }, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

@@ -1,7 +1,7 @@
 {
   "wfid_1484445292.330231": {
     "polar_spacegroup": 1.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "F5H2Li2OV", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,13 +100,7 @@
     }, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "Li2VH2OF5", 
-    "hubbards": {
-      "H": 0.0, 
-      "F": 0.0, 
-      "Li": 0.0, 
-      "O": 0.0, 
-      "V": 3.25
-    }, 
+    "workflow_status": "FIZZLED", 
     "distortion": [
       {
         "unitcell": [
@@ -2979,7 +2973,14 @@
         }
       }
     ], 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {
+      "H": 0.0, 
+      "V": 3.25, 
+      "Li": 0.0, 
+      "O": 0.0, 
+      "F": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mp-868263", 
     "nonpolar_id": "mp-770536"
   }

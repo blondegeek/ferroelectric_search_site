@@ -1,7 +1,7 @@
 {
   "wfid_1476040365.418903": {
     "polar_spacegroup": 26.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "Fe3O4", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,10 +100,7 @@
     }, 
     "nonpolar_spacegroup": 57.0, 
     "pretty_formula": "Fe3O4", 
-    "hubbards": {
-      "Fe": 5.3, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.486803001428571, 
@@ -224,7 +221,11 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Fe": 5.3, 
+      "O": 0.0
+    }, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

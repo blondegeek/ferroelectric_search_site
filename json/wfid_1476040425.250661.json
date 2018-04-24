@@ -1,7 +1,7 @@
 {
   "wfid_1476040425.250661": {
     "polar_spacegroup": 32.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "HfO3Pb", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 19.72620054129002, 
     "nonpolar_spacegroup": 55.0, 
     "pretty_formula": "HfPbO3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -8.248974318250001, 
@@ -6537,7 +6537,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

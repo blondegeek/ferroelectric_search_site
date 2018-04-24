@@ -1,7 +1,7 @@
 {
   "wfid_1484444953.778541": {
     "polar_spacegroup": 38.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "BaO3Ti", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 50.04352118260214, 
     "nonpolar_spacegroup": 221.0, 
     "pretty_formula": "BaTiO3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.977391344, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

@@ -1,7 +1,7 @@
 {
   "wfid_1476041091.981586": {
     "polar_spacegroup": 185.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "BaMnO3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,11 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "BaMnO3", 
-    "hubbards": {
-      "Mn": 3.9, 
-      "Ba": 0.0, 
-      "O": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.865062892, 
@@ -225,7 +221,12 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Mn": 3.9, 
+      "Ba": 0.0, 
+      "O": 0.0
+    }, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

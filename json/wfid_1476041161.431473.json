@@ -1,7 +1,7 @@
 {
   "wfid_1476041161.431473": {
     "polar_spacegroup": 5.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "LiO12P3Zr2", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 8.078589172309332, 
     "nonpolar_spacegroup": 167.0, 
     "pretty_formula": "LiZr2(PO4)3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -7.985569420138889, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [

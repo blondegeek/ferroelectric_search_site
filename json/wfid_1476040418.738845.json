@@ -1,7 +1,7 @@
 {
   "wfid_1476040418.738845": {
     "polar_spacegroup": 31.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "F4FeLi", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,11 +101,7 @@
     "polarization_change_norm": 12.32952038669243, 
     "nonpolar_spacegroup": 62.0, 
     "pretty_formula": "LiFeF4", 
-    "hubbards": {
-      "F": 0.0, 
-      "Fe": 5.3, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -4.9969570333333335, 
@@ -6489,7 +6485,12 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "F": 0.0, 
+      "Fe": 5.3, 
+      "Li": 0.0
+    }, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

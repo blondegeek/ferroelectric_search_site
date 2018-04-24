@@ -1,7 +1,7 @@
 {
   "wfid_1476040935.28678": {
     "polar_spacegroup": 79.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "BaFe2S4", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 87.0, 
     "pretty_formula": "Ba(FeS2)2", 
-    "hubbards": {}, 
+    "workflow_status": "DEFUSED", 
     "distortion": [
       {
         "unitcell": [
@@ -2553,7 +2553,8 @@
         }
       }
     ], 
-    "workflow_status": "DEFUSED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-675078", 
     "nonpolar_id": "mp-27660"
   }

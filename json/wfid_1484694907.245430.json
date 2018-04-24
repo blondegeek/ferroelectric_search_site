@@ -1,7 +1,7 @@
 {
   "wfid_1484694907.245430": {
     "polar_spacegroup": 33.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "FeLiO4Si", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 63.0, 
     "pretty_formula": "LiFeSiO4", 
-    "hubbards": {
-      "Si": 0.0, 
-      "Fe": 5.3, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "RUNNING", 
     "distortion": [
       {
         "unitcell": [
@@ -4748,7 +4743,13 @@
         }
       }
     ], 
-    "workflow_status": "RUNNING", 
+    "hubbards": {
+      "Si": 0.0, 
+      "Fe": 5.3, 
+      "O": 0.0, 
+      "Li": 0.0
+    }, 
+    "category": "not_complete", 
     "polar_id": "mp-766664", 
     "nonpolar_id": "mp-762643"
   }

@@ -1,7 +1,7 @@
 {
   "wfid_1476041135.279468": {
     "polar_spacegroup": 4.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "FeLi2O4Si", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,12 +101,7 @@
     "polarization_change_norm": 80.90930081304278, 
     "nonpolar_spacegroup": 20.0, 
     "pretty_formula": "Li2FeSiO4", 
-    "hubbards": {
-      "Si": 0.0, 
-      "Fe": 5.3, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.587773840625, 
@@ -6542,7 +6537,13 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {
+      "Si": 0.0, 
+      "Fe": 5.3, 
+      "O": 0.0, 
+      "Li": 0.0
+    }, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

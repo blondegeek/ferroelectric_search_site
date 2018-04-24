@@ -1,7 +1,7 @@
 {
   "wfid_1476040214.263027": {
     "polar_spacegroup": 5.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "GaN5O14", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 26.210563942539288, 
     "nonpolar_spacegroup": 82.0, 
     "pretty_formula": "GaN5O14", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.163966923249999, 
@@ -6485,7 +6485,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

@@ -1,7 +1,7 @@
 {
   "wfid_1476041041.434022": {
     "polar_spacegroup": 160.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "GaMo4S8", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 216.0, 
     "pretty_formula": "Ga(MoS2)4", 
-    "hubbards": {}, 
+    "workflow_status": "FIZZLED", 
     "distortion": [
       {
         "unitcell": [
@@ -3303,7 +3303,8 @@
         }
       }
     ], 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "polar_id": "mp-559694", 
     "nonpolar_id": "mp-2885"
   }

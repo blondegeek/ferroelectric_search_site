@@ -1,7 +1,7 @@
 {
   "wfid_1476040971.018097": {
     "polar_spacegroup": 146.0, 
-    "category": "static_only", 
+    "alphabetical_formula": "Cr2S3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 148.0, 
     "pretty_formula": "Cr2S3", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -6.918628768666666, 
@@ -221,7 +221,8 @@
         ]
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "static_only", 
     "distortion": [
       {
         "unitcell": [

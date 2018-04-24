@@ -1,7 +1,7 @@
 {
   "wfid_1484444938.724823": {
     "polar_spacegroup": 185.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "AlBiO3", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,7 +100,7 @@
     }, 
     "nonpolar_spacegroup": 194.0, 
     "pretty_formula": "AlBiO3", 
-    "hubbards": {}, 
+    "workflow_status": "FIZZLED", 
     "energy_per_atom": {
       "scalars": [
         -5.771719007333333, 
@@ -221,7 +221,8 @@
         ]
       }
     }, 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {}, 
+    "category": "not_complete", 
     "distortion": [
       {
         "unitcell": [

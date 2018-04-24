@@ -1,7 +1,7 @@
 {
   "wfid_1484445160.765248": {
     "polar_spacegroup": 33.0, 
-    "category": "not_complete", 
+    "alphabetical_formula": "LiMnO4Si", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -100,12 +100,7 @@
     }, 
     "nonpolar_spacegroup": 63.0, 
     "pretty_formula": "LiMnSiO4", 
-    "hubbards": {
-      "Si": 0.0, 
-      "Mn": 3.9, 
-      "O": 0.0, 
-      "Li": 0.0
-    }, 
+    "workflow_status": "FIZZLED", 
     "energy_per_atom": {
       "scalars": [
         -7.145086407857143, 
@@ -226,7 +221,13 @@
         ]
       }
     }, 
-    "workflow_status": "FIZZLED", 
+    "hubbards": {
+      "Si": 0.0, 
+      "Mn": 3.9, 
+      "O": 0.0, 
+      "Li": 0.0
+    }, 
+    "category": "not_complete", 
     "distortion": [
       {
         "unitcell": [

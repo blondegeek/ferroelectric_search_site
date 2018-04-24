@@ -1,7 +1,7 @@
 {
   "wfid_1476040324.484904": {
     "polar_spacegroup": 9.0, 
-    "category": "not_smooth", 
+    "alphabetical_formula": "H2O4S", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 91.65560137632178, 
     "nonpolar_spacegroup": 15.0, 
     "pretty_formula": "H2SO4", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -5.525975066071429, 
@@ -6537,7 +6537,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "not_smooth", 
     "distortion": [
       {
         "unitcell": [

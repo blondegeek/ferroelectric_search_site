@@ -1,7 +1,7 @@
 {
   "wfid_1476040452.983312": {
     "polar_spacegroup": 33.0, 
-    "category": "smooth", 
+    "alphabetical_formula": "AlCl4Hg2Sb", 
     "tasks": {
       "relaxation_task_labels": [
         {
@@ -101,7 +101,7 @@
     "polarization_change_norm": 0.5034878604717854, 
     "nonpolar_spacegroup": 60.0, 
     "pretty_formula": "AlHg2SbCl4", 
-    "hubbards": {}, 
+    "workflow_status": "COMPLETED", 
     "energy_per_atom": {
       "scalars": [
         -2.9121560321875, 
@@ -6589,7 +6589,8 @@
         }
       }
     }, 
-    "workflow_status": "COMPLETED", 
+    "hubbards": {}, 
+    "category": "smooth", 
     "distortion": [
       {
         "unitcell": [
