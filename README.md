@@ -1,6 +1,6 @@
 This dataset contains ab intio calculations of ferroelectric candidates found in the Materials Project database. 
 
-The details of how this dataset was created documented in XXX.
+The details of how this dataset was created documented in XXX. You can view the companion website for this dataset at <https://blondegeek.github.io/ferroelectric_search_site/>.
 
 To use the scripts in this repository, we recommend importing the distortions.json and workflow_data.json files into a mongo database (mongodb). [Click here for instructions on how to install mongodb on your system.](https://docs.mongodb.com/manual/installation/)
 
