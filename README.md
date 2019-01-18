@@ -18,3 +18,6 @@ mongoimport --jsonArray --db ferroelectric_dataset --collection workflow_data --
 ```
 
 The scripts in this repository will assume the ferroelectric_dataset is running locally with the default credentials. You may need to change the database credentials.
+
+
+[![DOI](https://zenodo.org/badge/126929482.svg)](https://zenodo.org/badge/latestdoi/126929482)
