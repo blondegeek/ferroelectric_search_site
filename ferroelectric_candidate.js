@@ -224,6 +224,33 @@ function draw_energy(energy_per_atom){
   Plotly.newPlot(energy_plot, [points, spline], layout)
 }
 
+function draw_magnetization(total_magnetization){
+  var mags = total_magnetization
+  var x_values = Array.apply(
+    null, {length: mags.length}
+  ).map(Number.call, Number)
+
+  var points = {
+    type: 'scatter',
+    mode: 'markers',
+    x: x_values,
+    y: mags,
+    marker: {color: '#0a2c74'},
+  }
+
+  var layout = {
+    showlegend: false,
+    width: 600,
+    height: 400,
+    yaxis: {
+      title: 'Total Magnetization in \u03BC_B'
+    },
+  }
+
+  var magnetization_plot = document.getElementById('magnetization');
+  Plotly.newPlot(magnetization_plot, [points], layout)
+}
+
 // Modified from
 // http://bl.ocks.org/jfreels/6734025
 function tabulate(data, columns, div_name) {
@@ -306,6 +333,8 @@ d3.json("json/" + getParameterByName("wfid") + ".json", function(data) {
   distortion = data['distortion']
   polarization = data['polarization']
   energy_per_atom = data['energy_per_atom']
+  total_magnetization = data['total_magnetization']
+  console.log(total_magnetization)
   tasks = data['tasks']
 
   var wfid = getParameterByName("wfid")
@@ -358,6 +387,9 @@ d3.json("json/" + getParameterByName("wfid") + ".json", function(data) {
   }
   if (energy_per_atom){
     draw_energy(energy_per_atom)
+  }
+  if (total_magnetization){
+    draw_magnetization(total_magnetization)
   }
 
   console.log(tasks)
