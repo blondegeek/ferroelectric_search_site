@@ -1,19 +1,10 @@
 {
+    "description": "Companion website for 'an automatically curated first-principles database of ferroelectrics'"
     "creators": [
-        {
-            "name": "Tess E. Smidt"
-        },
-        {
-            "name": "Stephanie A. Mack"
-        },
-        {
-            "name": "Sebastian E. Reyes-Lilio"
-        },
-        {
-            "name": "Anubhav Jain"
-        },
-        {
-            "name": "Jeffrey B. Neaton"
-        }
-    ], 
+        {"name": "Tess E. Smidt"},
+        {"name": "Stephanie A. Mack"},
+        {"name": "Sebastian E. Reyes-Lillo"},
+        {"name": "Anubhav Jain"},
+        {"name": "Jeffrey B. Neaton"},
+    ],
 }
