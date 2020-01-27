@@ -1,10 +1,4 @@
 {
-    "description": "<p>No description provided.</p>", 
-    "license": "other-open", 
-    "title": "blondegeek/ferroelectric_search_site: Ferroelectric Search Site", 
-    "version": "1.4", 
-    "upload_type": "software", 
-    "publication_date": "2019-11-15", 
     "creators": [
         {
             "name": "Tess E. Smidt"
@@ -22,17 +16,4 @@
             "name": "Jeffrey B. Neaton"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/blondegeek/ferroelectric_search_site/tree/1.4", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.1410671", 
-            "relation": "isVersionOf"
-        }
-    ]
 }
